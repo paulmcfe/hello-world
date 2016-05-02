@@ -1,2 +1,3 @@
 # hello-world
-GitHub learning repository
+GitHub getting started repository
+Hello-worlding the heck out of this thing.
