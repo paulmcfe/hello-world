@@ -2,8 +2,8 @@
 Saying hello to the GitHub world
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Paul",
+  "lastName": "McFedries",
+  "Canadian": true
 }
 ```
