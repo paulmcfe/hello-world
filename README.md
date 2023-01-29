@@ -6,6 +6,11 @@
 - The Other
 
 ```
+.author {
+    job: 'technical writer';
+}
+```
+```
 {
   "firstName": "Paul",
   "lastName": "McFedries",
